@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Backend Developer — From Problems to Solutions.</title>
+<desc id="desc">Dark navy portfolio banner with cyan accents. Java and Spring Boot.</desc>
+<rect width="1200" height="360" rx="16" fill="#0B1426"/>
+<path d="M850 0V360M950 0V360M1050 0V360M1150 0V360M800 80H1200M800 180H1200M800 280H1200" stroke="#17263B" stroke-width="1"/>
+<rect x="52" y="49" width="30" height="4" rx="2" fill="#39C9ED"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="96" y="57" fill="#94A9C3" font-size="14" letter-spacing="3">BACKEND DEVELOPER / PORTFOLIO</text>
+<text x="52" y="139" fill="#F1F6FC" font-size="57" font-weight="700" letter-spacing="-2">From Problems</text>
+<text x="52" y="205" fill="#39C9ED" font-size="57" font-weight="700" letter-spacing="-2">to Solutions.</text>
+<text x="54" y="252" fill="#B7C7DA" font-size="17">REPRODUCE / ANALYZE / IMPROVE / VERIFY</text>
+<path d="M54 282H754" stroke="#27374D"/>
+<text x="54" y="318" fill="#F1F6FC" font-size="14" letter-spacing="2">JAVA</text>
+<circle cx="125" cy="313" r="2" fill="#39C9ED"/>
+<text x="145" y="318" fill="#F1F6FC" font-size="14" letter-spacing="2">SPRING BOOT</text>
+<text x="1140" y="318" text-anchor="end" fill="#6F849F" font-size="12" letter-spacing="2">ENGINEERING WITH INTENT</text>
+</g>
+<g fill="none" stroke="#39C9ED" stroke-width="2"><rect x="910" y="106" width="164" height="120" rx="12" stroke="#294A63"/><path d="M946 147L930 165L946 183M1038 147L1054 165L1038 183M1005 139L979 191"/><path d="M992 226V257H1110" stroke="#294A63"/><circle cx="1110" cy="257" r="5" fill="#39C9ED" stroke="none"/></g>
+</svg>
