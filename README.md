@@ -49,7 +49,7 @@ QA 과정에서 쌓은 결함 재현, 테스트 자동화, 데이터 검증 경�
 | 확인된 기여 | 응답 본문 스트리밍과 첫 본문 수신 시간 계측 구현 |
 | 프로젝트 기술 | Java · Spring Boot · Spring Data JPA · Spring Security · React · Vite |
 | 문제 해결 사례 | QA 중 미전송 생성 요청을 사용량 유실로 분류하던 문제를 분석하고, 미전송 상태와 실제 과금 미확인을 구분하도록 개선한 기록 |
-| 개발 형태 · 기간 | [확인 필요: 개인/팀, 개발 기간, 현재 상태] |
+| 개발 형태 · 기간 | 개인 프로젝트 · 2026.09 ~ 현재 (개발 중) |
 
 [Repository](https://github.com/WonJiSun0730/PocketMM) · [스트리밍 구현 커밋](https://github.com/WonJiSun0730/PocketMM/commit/f0f5d7fe22adfd28ccb4e9cede46228785abb8f0) · [QA 조사 기록](https://github.com/WonJiSun0730/PocketMM/blob/main/docs/qa-57turn-audit.md)
 
@@ -85,7 +85,7 @@ QA 과정에서 쌓은 결함 재현, 테스트 자동화, 데이터 검증 경�
 | 기여 기술 | Java · Spring Boot · Python · FastAPI · Redis |
 | 프로젝트 기술 | Spring Data JPA · Spring Security · React · Vite |
 | 설계 포인트 | Redis Hash에 직전 의도·검색어를 저장하고 TTL을 갱신하며, Redis 장애 시 문맥 없이 질문 처리를 이어가도록 예외 처리 |
-| 팀 구성 · 기간 | [확인 필요: 팀 인원, 개발 기간, 현재 상태] |
+| 팀 구성 · 기간 | 팀 프로젝트(3명) · 2026.07.24 ~ 2026.08.20 |
 
 [Repository](https://github.com/WonJiSun0730/BloodOps) · [AI·Redis 연동 PR #69](https://github.com/WonJiSun0730/BloodOps/pull/69) · [문맥 관리 구현 커밋](https://github.com/WonJiSun0730/BloodOps/commit/7c5258e0ebd81586efe227694c8c5c3ec6f65203)
 
@@ -125,5 +125,4 @@ QA 과정에서 쌓은 결함 재현, 테스트 자동화, 데이터 검증 경�
 ## 04 / Contact
 
 - **GitHub:** [WonJiSun0730](https://github.com/WonJiSun0730)
-- **Email:** [확인 필요: 공개할 이메일]
-- **Resume / Portfolio:** [확인 필요: 공개 가능한 링크]
+- **Email:** wlwns14@naver.com
